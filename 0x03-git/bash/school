@@ -1,2 +1,2 @@
 #!/bin/bash
-echot "the School is opne"
+echo "The School is open!"
